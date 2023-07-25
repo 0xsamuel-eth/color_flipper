@@ -1,2 +1,1 @@
-# color_flipper
-Color Flipper
+# Color Flipper Project
