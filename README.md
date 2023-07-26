@@ -1,4 +1,4 @@
 # Color Flipper Project
 
 
-HTML site with a button to "flip" background color (simple or hex) and display the current color
+A "color-flipper" that changes the page background when a button is clicked and updates text to indicate the color name and hex tag
